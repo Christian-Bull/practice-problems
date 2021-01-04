@@ -1,3 +1,3 @@
 # practice problems from leetcode
 
-This is just a organized place to put solutions to problems off leetcode.com
+This is just a organized place to put solutions to problems off [leetcode.com](https://leetcode.com)
